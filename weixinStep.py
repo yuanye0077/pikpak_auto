@@ -5,7 +5,6 @@ import re
 import json
 import random
 
-
 # 获取步数
 def get_step_num(StepNum):
     minStep = 5000
